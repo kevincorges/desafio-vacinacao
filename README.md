@@ -138,12 +138,10 @@ Body: {
 5. **DTOs**: Separação entre modelos de domínio e transferência de dados
 
 ## 📚 Próximas Melhorias (Diferenciais)
-
-- [ ] Testes unitários com xUnit e Moq
 - [ ] Autenticação JWT
 - [ ] Controle de transações
 - [ ] Validações com FluentValidation
-- [ ] Persistência em localStorage (Frontend)
+
 
 ---
 
