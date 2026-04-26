@@ -50,12 +50,12 @@ cd frontend
 
 2. Instale as dependências (se não estiverem instaladas):
 ```bash
-pnpm install
+npm install
 ```
 
 3. Inicie o servidor de desenvolvimento:
 ```bash
-pnpm dev
+npm run dev
 ```
 
 A aplicação estará disponível em `http://localhost:5173`
